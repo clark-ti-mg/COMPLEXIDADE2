@@ -1,5 +1,6 @@
 public class App {
 
+    //Algoritmo de complexidade linear O(n)
     public static int[] maiores3(int[] v){
         int maior1 = v[0], maior2 = v[1], maior3 = v[2];
 
